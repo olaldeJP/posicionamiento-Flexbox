@@ -1,0 +1,35 @@
+.section1{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    align-items: end;
+}
+
+.section2{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+}
+
+.section3{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+}
+
+
+.box{
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+}
+.box1{
+    background-color: red;
+}
+.box2{
+    background-color: blue;
+}
+.box3{
+    background-color: green;
+}
+
